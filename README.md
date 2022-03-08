@@ -6,7 +6,7 @@ Projets réalisés dans le cadre de la formation Développeur Web d'Open Classro
 [Intégration d'une maquette responsive](https://marineflora.github.io/MarineRapeneau_2_29042021/)  /
 [Site mobile first à partir d'une maquette avec animations CSS](https://marineflora.github.io/MarineRapeneau_3_11062021/)  / 
 [Optimisation d'un site web existant](https://marineflora.github.io/OC_P4/)  /
-[Construction d'un site de e-commerce en Javascript](https://marineflora.github.io/oc_p5_orinoco/)  / 
+[Construction d'un site de e-commerce en Javascript](https://marineflora.github.io/oc_p5_orinoco_front/)  / 
 [Construction d'une API sécurisée](https://github.com/MarineFlora/MarineRapeneau_6_04102021)  /
 [Création d'un réseau social d'entreprise avec Vue.js](https://github.com/MarineFlora/MarineRapeneau_7_08112021)
 
