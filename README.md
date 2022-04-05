@@ -10,6 +10,9 @@ Projets réalisés dans le cadre de la formation Développeur Web d'Open Classro
 [Construction d'une API sécurisée](https://github.com/MarineFlora/MarineRapeneau_6_04102021)  /
 [Création d'un réseau social d'entreprise avec Vue.js](https://github.com/MarineFlora/MarineRapeneau_7_08112021)
 
+
+🤯 projet en cours : un quiz sur le cinéma d'animation ! 
+
 A bientôt !
 
 <!--
