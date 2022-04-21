@@ -19,6 +19,7 @@ Je suis à la recherche d'un contrat en tant que développeuse front-end / inté
 
 
 ## Projets réalisés :  
+![Group 1 (4)](https://user-images.githubusercontent.com/79592886/164421089-efe4e9cd-cc78-4dc5-a0a9-ddb02943da4b.png)
 • [Groupomania](https://github.com/MarineFlora/MarineRapeneau_7_08112021) : Création d'un réseau social d'entreprise avec Vue.js   
 • [Oriphoto](https://github.com/MarineFlora/MarineRapeneau_5_19082021) : Construction d'un site de e-commerce en Javascript    
 • [Ohmyfood](https://github.com/MarineFlora/MarineRapeneau_3_11062021) : Site mobile first à partir d'une maquette avec animations CSS    
